@@ -41,6 +41,8 @@ def bfs(start):
 print(*dfs(V, matrix, []))
 print(*bfs(V))
 
+from itertools import product
+
 """
 #딕셔너리 이용한 DFS, BFS
 graph = {

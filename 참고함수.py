@@ -89,3 +89,8 @@ def combination(arr, r):
                 chosen.pop()
                 used[nxt] = 0
     generate([])
+
+import itertools
+mylist = [1,2,3]
+result = itertools.combinations(mylist, r=2)
+result = itertools.combinations_with_replacement(mylist, r=2)

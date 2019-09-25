@@ -1,15 +1,19 @@
 #순열 조합 , :https://shoark7.github.io/programming/algorithm/Permutations-and-Combinations
 
 #1. 순열
-def permutation(arr, r):
+def permutation1(arr, r):
     # 1.
     arr = sorted(arr)
     used = [0 for _ in range(len(arr))]
+    global AAA
+    AAA = []
 
     def generate(chosen, used):
         # 2.
+
         if len(chosen) == r:
             print(chosen)
+            AAA.append(chosen)
             return
 
         # 3.
@@ -22,17 +26,22 @@ def permutation(arr, r):
                 chosen.pop()
 
     generate([], used)
+    return AAA
 
 #중복 해결
 def permutation(arr, r):
     # 1.
+    arr = [1,3,2]
+    r = 3
     arr = sorted(arr)
     used = [0 for _ in range(len(arr))]
-
+    global result
+    result = []
     def generate(chosen, used):
         # 2.
         if len(chosen) == r:
             print(chosen)
+            result.append([x for x in chosen])
             return
 
         for i in range(len(arr)):
@@ -43,8 +52,9 @@ def permutation(arr, r):
                 generate(chosen, used)
                 used[i] = 0
                 chosen.pop()
+    generate([],used)
 
-    generate([], used)
+    return result
 
 #permutation([1, 2, 3, 4, 5], 3)
 

@@ -104,3 +104,10 @@ import itertools
 mylist = [1,2,3]
 result = itertools.combinations(mylist, r=2)
 result = itertools.combinations_with_replacement(mylist, r=2)
+
+
+
+from collections import deque
+que = deque(['bb','cc'])
+que.append('aaa')
+que.popleft()

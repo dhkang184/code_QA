@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬/실전문제 03. 성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/07. 이진탐색/00.이진탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/07. 이진탐색/02. 부품 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/07. 이진탐색/03. 떡볶이 떡 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/00. DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/02. 1로 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/03. 개미전사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/04. 바닥공사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/05. 효율적인 화페 구성.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/09. 최단경로/00. 다익스트라.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code_QA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code_QA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +26,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1n11qFfUDSSBmceP5X6ORxO2O0M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,9 +34,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/이것이코딩테스트다" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,8 +53,8 @@
       <recent name="D:\study\code_QA\이것이코딩테스트다\03.그리디" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.00. 다익스트라">
-    <configuration name="00. DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.00. 정렬">
+    <configuration name="00. 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code_QA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/00. DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬/00. 정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="00. 다익스트라" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. 예제. 상하좌우" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code_QA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/09. 최단경로" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/09. 최단경로/00. 다익스트라.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현/01. 예제. 상하좌우.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. 1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.예제 시각" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code_QA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/02. 1로 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현/02.예제 시각.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. 바닥공사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. 왕실의 나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code_QA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +128,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/04. 바닥공사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/04. 구현/02. 왕실의 나이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. 효율적인 화페 구성" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dfs_bfs sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code_QA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/05. 효율적인 화페 구성.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS/dfs_bfs sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00. 다익스트라" />
-        <item itemvalue="Python.05. 효율적인 화페 구성" />
-        <item itemvalue="Python.04. 바닥공사" />
-        <item itemvalue="Python.02. 1로 만들기" />
-        <item itemvalue="Python.00. DP" />
+        <item itemvalue="Python.00. 정렬" />
+        <item itemvalue="Python.dfs_bfs sample" />
+        <item itemvalue="Python.02. 왕실의 나이트" />
+        <item itemvalue="Python.02.예제 시각" />
+        <item itemvalue="Python.01. 예제. 상하좌우" />
       </list>
     </recent_temporary>
   </component>
@@ -204,23 +186,12 @@
       <workItem from="1610973679837" duration="6272000" />
       <workItem from="1611068531581" duration="2989000" />
       <workItem from="1611143478262" duration="5306000" />
-      <workItem from="1611555278982" duration="10015000" />
+      <workItem from="1612186120652" duration="1633000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -250,21 +221,6 @@
           <line>7</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/00. DP.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍/04. 바닥공사.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/이것이코딩테스트다/09. 최단경로/00. 다익스트라.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -272,21 +228,16 @@
         <watch expression="array[pivot]" language="Python" />
         <watch expression="array[left]" language="Python" />
         <watch expression="array[right]" language="Python" />
-        <watch expression="d" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/code_QA$3_1_.coverage" NAME="예제3-1 거스름돈 Coverage Results" MODIFIED="1610974614918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다" />
-    <SUITE FILE_PATH="coverage/code_QA$02__1_.coverage" NAME="02. 1로 만들기 Coverage Results" MODIFIED="1611562135867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
-    <SUITE FILE_PATH="coverage/code_QA$04__.coverage" NAME="04. 바닥공사 Coverage Results" MODIFIED="1611564372728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
+    <SUITE FILE_PATH="coverage/code_QA$4__1__.coverage" NAME="4. 1이 될 때까지 Coverage Results" MODIFIED="1610976003254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
+    <SUITE FILE_PATH="coverage/code_QA$00__.coverage" NAME="00. 정렬 Coverage Results" MODIFIED="1611155493502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
+    <SUITE FILE_PATH="coverage/code_QA$02___.coverage" NAME="02. 왕실의 나이트 Coverage Results" MODIFIED="1611069155296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$02__.coverage" NAME="02.예제 시각 Coverage Results" MODIFIED="1611069057833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$dfs_bfs_sample.coverage" NAME="dfs_bfs sample Coverage Results" MODIFIED="1611144005796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
-    <SUITE FILE_PATH="coverage/code_QA$02___.coverage" NAME="02. 왕실의 나이트 Coverage Results" MODIFIED="1611069155296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
-    <SUITE FILE_PATH="coverage/code_QA$4__1__.coverage" NAME="4. 1이 될 때까지 Coverage Results" MODIFIED="1610976003254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
+    <SUITE FILE_PATH="coverage/code_QA$3_1_.coverage" NAME="예제3-1 거스름돈 Coverage Results" MODIFIED="1610974614918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다" />
     <SUITE FILE_PATH="coverage/code_QA$01____.coverage" NAME="01. 예제. 상하좌우 Coverage Results" MODIFIED="1610979200782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
-    <SUITE FILE_PATH="coverage/code_QA$05____.coverage" NAME="05. 효율적인 화페 구성 Coverage Results" MODIFIED="1611564770269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
-    <SUITE FILE_PATH="coverage/code_QA$00__.coverage" NAME="00. 다익스트라 Coverage Results" MODIFIED="1611569313228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/09. 최단경로" />
-    <SUITE FILE_PATH="coverage/code_QA$00__DP.coverage" NAME="00. DP Coverage Results" MODIFIED="1611561630277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/08. 다이나믹 프로그래밍" />
   </component>
 </project>

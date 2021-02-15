@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/04. 구현/Q.13 치킨 배달.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/04. 구현/Q.14 외벽 점검.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS/Q.15 특정거리의 도시 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS/Q.16 연구소.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS/Q.17 경쟁적 전염.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬/Q.23 국영수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬/Q.26 카드 정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code_QA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code_QA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,6 +210,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -296,20 +286,24 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/code_QA$Q_04____.coverage" NAME="Q.04 만들 수 없는 금액 Coverage Results" MODIFIED="1612705200942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
-    <SUITE FILE_PATH="coverage/code_QA$3_1_.coverage" NAME="예제3-1 거스름돈 Coverage Results" MODIFIED="1610974614918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다" />
+    <SUITE FILE_PATH="coverage/code_QA$4__1__.coverage" NAME="4. 1이 될 때까지 Coverage Results" MODIFIED="1610976003254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_26__.coverage" NAME="Q.26 카드 정렬하기 Coverage Results" MODIFIED="1613296269241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
+    <SUITE FILE_PATH="coverage/code_QA$00__.coverage" NAME="00. 정렬 Coverage Results" MODIFIED="1611155493502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_05__.coverage" NAME="Q.05 볼링공 고르기 Coverage Results" MODIFIED="1612705230203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_18_.coverage" NAME="Q.18 괄호변환 Coverage Results" MODIFIED="1613389603602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
     <SUITE FILE_PATH="coverage/code_QA$02__.coverage" NAME="02.예제 시각 Coverage Results" MODIFIED="1611069057833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$dfs_bfs_sample.coverage" NAME="dfs_bfs sample Coverage Results" MODIFIED="1611144005796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
-    <SUITE FILE_PATH="coverage/code_QA$4__1__.coverage" NAME="4. 1이 될 때까지 Coverage Results" MODIFIED="1610976003254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
     <SUITE FILE_PATH="coverage/code_QA$Q_03__.coverage" NAME="Q.03 문자열 뒤집기 Coverage Results" MODIFIED="1612702634743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
-    <SUITE FILE_PATH="coverage/code_QA$Q_26__.coverage" NAME="Q.26 카드 정렬하기 Coverage Results" MODIFIED="1613296269241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_09__.coverage" NAME="Q.09 문자열 압축 Coverage Results" MODIFIED="1612787280950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$Q_06___.coverage" NAME="Q.06 무지의 먹방 라이브 Coverage Results" MODIFIED="1612706881762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
-    <SUITE FILE_PATH="coverage/code_QA$Q_05__.coverage" NAME="Q.05 볼링공 고르기 Coverage Results" MODIFIED="1612705230203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
     <SUITE FILE_PATH="coverage/code_QA$Q_13__.coverage" NAME="Q.13 치킨 배달 Coverage Results" MODIFIED="1613287198569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
-    <SUITE FILE_PATH="coverage/code_QA$02___.coverage" NAME="02. 왕실의 나이트 Coverage Results" MODIFIED="1611069155296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$01____.coverage" NAME="01. 예제. 상하좌우 Coverage Results" MODIFIED="1610979200782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
+    <SUITE FILE_PATH="coverage/code_QA$02___.coverage" NAME="02. 왕실의 나이트 Coverage Results" MODIFIED="1611069155296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
     <SUITE FILE_PATH="coverage/code_QA$Q_15___.coverage" NAME="Q.15 특정거리의 도시 찾기 Coverage Results" MODIFIED="1613289949505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
-    <SUITE FILE_PATH="coverage/code_QA$00__.coverage" NAME="00. 정렬 Coverage Results" MODIFIED="1611155493502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/06. 정렬" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_22__.coverage" NAME="Q.22 블록 이동하기 Coverage Results" MODIFIED="1613401101243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/05. DFS, BFS" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_04____.coverage" NAME="Q.04 만들 수 없는 금액 Coverage Results" MODIFIED="1612705200942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
     <SUITE FILE_PATH="coverage/code_QA$Q_02___.coverage" NAME="Q.02 곱하기 혹은 더하기 Coverage Results" MODIFIED="1612702598851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/03.그리디" />
+    <SUITE FILE_PATH="coverage/code_QA$3_1_.coverage" NAME="예제3-1 거스름돈 Coverage Results" MODIFIED="1610974614918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다" />
+    <SUITE FILE_PATH="coverage/code_QA$Q_08__.coverage" NAME="Q.08 문자열 재정렬 Coverage Results" MODIFIED="1612784587635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이코딩테스트다/04. 구현" />
   </component>
 </project>

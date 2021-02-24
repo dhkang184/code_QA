@@ -25,3 +25,6 @@ code_QA
 https://www.acmicpc.net/step
   코드업 - 기초 100제
 https://codeup.kr/problemsetsol.php?psid=23
+
+백준-삼성 기출 문제 정리:
+https://www.acmicpc.net/workbook/view/1152

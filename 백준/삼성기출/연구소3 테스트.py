@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/17142
+#
 # 시작 시간: 2021.02.22 22:15
 
 import collections

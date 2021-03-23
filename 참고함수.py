@@ -111,3 +111,16 @@ from collections import deque
 que = deque(['bb','cc'])
 que.append('aaa')
 que.popleft()
+
+
+def transpose(board, row_num, col_num):
+    temp = [[] * row_num for _ in range(col_num)]
+    for i, line in enumerate(board):
+        for j, ele in enumerate(line):
+            temp[j].append(ele)
+
+        for _ in range(col_num - len(line)):
+            j += 1
+            temp[j].append(0)
+
+    return temp

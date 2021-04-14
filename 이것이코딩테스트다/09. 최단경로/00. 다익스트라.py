@@ -60,6 +60,7 @@ def dijksta_heapq():
     for _ in range(m):
         a,b,c = map(int, input().split())
         graph[a].append((b,c))
+
     def dijkstra(start):
         q = []
         heapq.heappush(q, (0,start))

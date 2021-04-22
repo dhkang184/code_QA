@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="956f23fd-a390-4605-9e98-9785c56803f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,12 +199,19 @@
       <workItem from="1612186120652" duration="1633000" />
       <workItem from="1612272796124" duration="34000" />
       <workItem from="1612701345901" duration="5408000" />
+<<<<<<< Updated upstream
       <workItem from="1613284461468" duration="10020000" />
       <workItem from="1613568738288" duration="4015000" />
+<<<<<<< Updated upstream
       <workItem from="1613653183299" duration="6078000" />
       <workItem from="1613999645947" duration="7696000" />
       <workItem from="1614008715889" duration="661000" />
       <workItem from="1614166902148" duration="12954000" />
+=======
+=======
+      <workItem from="1613284461468" duration="10622000" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

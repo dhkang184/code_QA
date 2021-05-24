@@ -149,3 +149,17 @@ for edge in edges:
         result += cost
 """
 
+# 진수 변환 - 210524_01
+"""
+10 진수 -> 2, 8, 16 진수
+value = 30
+b = format(value, 'b')
+o = format(value, 'o')
+h = format(value, 'x')
+
+2,8,16 -> 10 진수
+value = 101010
+int_b = int(str(value), 2)
+int_o = int(str(value), 8)
+int_x = int(str(value), 16)
+"""

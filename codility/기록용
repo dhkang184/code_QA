@@ -1,4 +1,9 @@
-2021-05-25
+# 코딜리티 유투버:
+https://www.youtube.com/playlist?list=PLdfdlCB0Mc8cjASaKPGzLMZ-F2aofFB8L
+# 문제 풀이 사이트
+https://programming-review.com/python/algorithms
+
+2021-05-24
 
 01-01 문제:
 진수 변환 문제, 진수 변환 : format 함수 사용
@@ -16,3 +21,50 @@
  - 맥스 값을 마지막에 한번만 적용
 
  04-04 순열 정의 확인! --> 번역기 한번은 돌려보고 풀기기
+
+##########################
+ 2021-05-25
+
+ 05-02 문제
+ -> 문제 해석 능력....
+
+ 05-04 문제 :
+ - 1차: 05분, 100/70 -> 1,000,000,000 이상 예외 처리 미흡
+
+06-02 문제:
+-1차 10분, 25/100 ->  리스트 길이 분석 실패
+
+
+06-03 문제:
+- 풀이 실패,,, 이해 실패
+
+07-01 문제
+- 20분 , 33/40 -> ) 와 같이 빈 리스트에서 pop 되는 현상 점검 못함.
+
+07-04 문제
+- 대소 관계 확인 잘 하기, x 값이 더 클경우, h_list[-1] 값이 더 큰 경우 혼동 있었음.
+
+08-01 문제
+- 1차 실패 - 50/100 -> more than -> 초과 의미... 이상 아님.
+    - extreme_empty_and_single_item
+    - extreme_half1
+    - extreme_half2
+
+08-02 문제
+-1차 실패 60/0 -> return 0: False랑 같음...
+    -two elements
+    -small random test with two values, length = ~100
+    -large random test with two values, length = ~50,000
+    -random(0,1) + 50000 * [0] + random(0, 1), length = ~100,000
+    -1, 2, ..., N, length = ~100,000
+    -all the same values
+-2차 실패 100/0 -> return 0: False랑 같음...
+-3차 -> 코드 참조... 매번 구하지 않고 한번의 for문으로 해결
+
+09-01 문제
+-1차 실패 83/14
+-
+a = [1,2,3,4] -> 순서, 값 묶어서 리스트 만들기
+new_a = list(zip(range(len(a)),a))
+
+- 2차 실패, => 답안 참고

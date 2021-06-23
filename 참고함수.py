@@ -96,7 +96,7 @@ def dijksta(start):
     q = []
     heapq.heappush(q, (0,start))
     while q:
-        now, dist = heapq.heappop()
+        now, dist = heapq.heappop(q)
         if distance[now] < dist:
             continue
         for i in graph[now]:

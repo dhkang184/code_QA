@@ -60,10 +60,6 @@ def bfs(graph, start, visited):
                 queue.append(i)
                 visited[i] = True
 
-#heapq
-import heapq
-
-
 # 정렬 quick sort
 def quick_sort(array, start, end):
     if start>= end:

@@ -15,7 +15,7 @@ def solution(numbers, target):
     #     if y == target:
     #         answer +=1
     q.count(target)
-
+##
     return answer
 
 print(solution([1,1,1,1,1],3))

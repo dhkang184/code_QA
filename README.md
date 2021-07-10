@@ -7,9 +7,13 @@ code_QA
 
 ★알고리즘 사이트 안내
   백준 : https://www.acmicpc.net/
+  
   SWEA(삼성) : https://swexpertacademy.com/ 
+  
   프로그래머스(카카오 외 다수) : https://programmers.co.kr/
+  
   codility(네이버) : https://app.codility.com/programmers/
+  
   hacker rank: https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python
 
 ★알고리즘 공부법

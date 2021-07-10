@@ -60,6 +60,10 @@ def bfs(graph, start, visited):
                 queue.append(i)
                 visited[i] = True
 
+#heapq
+import heapq
+
+
 # 정렬 quick sort
 def quick_sort(array, start, end):
     if start>= end:
@@ -92,7 +96,7 @@ def dijksta(start):
     q = []
     heapq.heappush(q, (0,start))
     while q:
-        now, dist = heapq.heappop()
+        now, dist = heapq.heappop(q)
         if distance[now] < dist:
             continue
         for i in graph[now]:
@@ -100,7 +104,7 @@ def dijksta(start):
             if cost < distance[i[0]]:
                 distance[i[0]] = cost
                 heapq.heappush(q, (cost,i[0]))
-
+"""
 #최소 신장 트리
 """
 # 특정 원소가 속한 집합을 찾기
@@ -147,5 +151,20 @@ for edge in edges:
     if find_parent(parent, a) != find_parent(parent, b):
         union_parent(parent, a, b)
         result += cost
+
 """
+# 진수 변환 - 210524_01
+"""
+#10 진수 -> 2, 8, 16 진수
+value = 30
+b = format(value, 'b')
+o = format(value, 'o')
+h = format(value, 'x')
+
+#2,8,16 -> 10 진수
+value = 101010
+int_b = int(str(value), 2)
+int_o = int(str(value), 8)
+int_x = int(str(value), 16)
+
 

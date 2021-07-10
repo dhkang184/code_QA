@@ -15,6 +15,7 @@
 ## 성공 코드 , max값을 가장 마지막에 한번만 업데이트 함
 ## -> max값이 나올때 마다 리스트를 새로 쓰지 않음음def solution(N, A):
 
+def solution(N,A):
     counters = N * [0]
     next_max_counter =  max_counter = 0
 

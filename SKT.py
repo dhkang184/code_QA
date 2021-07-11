@@ -106,4 +106,4 @@ def solution4(S):
     return answer
 
 
-print(solution4('aaabbaabbaabb'))
+print(solution4('aaabbaaa'))

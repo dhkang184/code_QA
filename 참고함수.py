@@ -120,8 +120,8 @@ def union_parent(parent, a, b):
         parent[a] = b
 
 # 노드의 개수와 간선(Union 연산)의 개수 입력 받기
-v, e = map(int, input().split())
-parent = [0] * (v + 1) # 부모 테이블 초기화하기
+#v, e = map(int, input().split())
+#parent = [0] * (v + 1) # 부모 테이블 초기화하기
 
 # 모든 간선을 담을 리스트와, 최종 비용을 담을 변수
 edges = []
@@ -164,3 +164,24 @@ int_o = int(str(value), 8)
 int_x = int(str(value), 16)
 
 
+def suff(S):
+    L_pre = [0] * len(S)
+    left_idx = 0
+    i = 1
+    while (i < len(S)):
+        if (S[i] == S[left_idx]):
+            left_idx = left_idx + 1
+            L_pre[i] = left_idx
+            i = i + 1
+        elif left_idx ==0:
+            L_pre[i] = 0
+            i = i + 1
+        else:
+            left_idx = L_pre[left_idx - 1]
+
+    answer = L_pre[len(S) - 1]
+
+    return answer
+
+
+suff('aasjjwjqiwjhdsaa')

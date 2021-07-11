@@ -14,3 +14,10 @@ def minion_game(S):
         print('Stuart %d' %Stuart)
     else:
         print('Kevin %d' %Kevin)
+
+
+def dfs(a):
+    if len(a) ==3:
+        return a
+
+    a = dfs(a.append(len(a)))

@@ -102,7 +102,6 @@ def solution4(S):
 
     answer = L_pre[len(S) - 1]
 
-
     return answer
 
 

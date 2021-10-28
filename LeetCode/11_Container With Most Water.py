@@ -6,7 +6,6 @@ class Solution:
         :type height: List[int]
         :rtype: int
         """
-
         left, right, y = 0, len(height) - 1, 0
         ans = 0
 

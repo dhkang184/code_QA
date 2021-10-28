@@ -14,8 +14,8 @@ def solution(s):
             r_len = s_idx+1
             s_list[s_idx] = s_idx+1
     return s_list[-1]
+
 print(solution('abcabcabd'))
 print(solution('0045662100456621004566210045662100456621'))
-print(solution('001508295625942684766214177978883861236802413273'))
 
 
